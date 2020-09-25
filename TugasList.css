@@ -1,0 +1,52 @@
+h1 {
+	color: black;
+	font-size: 40px;
+	font-family: serif;
+}	
+p {
+	color: red;
+	font-size: 30px;
+	font-family: arial;
+}	
+h2 {
+	font-family: verdana;
+	font-size: 25px
+}	
+ul {
+	font-size: 20px;
+	background: blue;
+	padding: 25px;
+}	
+ul li {
+	background: aqua;
+	margin: 15px
+}		
+ul {
+	font-size: 20;
+	background: blue;
+	padding: 25px;
+}	
+ul li {
+	background: aqua;
+	margin: 15px;
+}	
+h3 {
+	font-family: verdana;
+	font-size: 25px
+}	
+ol {
+	font-size: 20;
+	background: salmon;
+	padding: 30px;
+}	
+ol li {
+	background: pink;
+}
+ol {
+	font-size: 20;
+	background: salmon;
+	padding: 30px;
+}	
+ol li {
+	background: pink;
+}
